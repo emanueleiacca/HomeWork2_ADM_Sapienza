@@ -1,0 +1,9 @@
+pandas
+matplotlib
+vaderSentiment #english sentiment
+transformers # schinese sentiment
+torch
+deeppavlov # russians sentimeny
+seaborn
+ipython
+kaggle
