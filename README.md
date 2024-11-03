@@ -31,3 +31,7 @@ project
 └───images                       
     │   ...               
 ```
+
+## Alternative link
+
+As requested, we share the alternative link of [our notebook](https://nbviewer.org/github/emanueleiacca/HomeWork2_ADM_Sapienza/blob/main/main.ipynb)
