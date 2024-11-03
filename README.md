@@ -10,19 +10,19 @@ For this analysis, we utilized the [Steam Reviews 2021](https://www.google.com/s
 
 ```
 project
-│   README.md                    # Project overview and instructions
-│   requirements.txt             # List of dependencies for setting up the environment
-│   merged_notebook.ipynb        # Final output notebook
+│   README.md                  
+│   requirements.txt            
+│   merged_notebook.ipynb       
 │
 ├───Singular Notebook          
-│   │   RQ1_4.ipynb              # Colab notebook
-│   │   RQ_5_7.ipynb             # Kaggle Notebook
-│   │   RQ_Focus7-4.ipynb        # Kaggle Notebook for statistical analysis 
-│   │   english_sent.ipynb       #Kaggle notebook for eng language
-│   │   rus_sent.ipynb           #Kaggle notebook for rus language   
-│   │   schinese_sent.ipynb      #Colab notebook for schinese language
-│   │   complete_sentiment_analysis.ipynb    #merged the three previous notebook
-│   │   algorith_question.ipynb           # Colab notebook 
+│   │   RQ1_4.ipynb             
+│   │   RQ_5_7.ipynb             
+│   │   RQ_Focus7-4.ipynb        
+│   │   english_sent.ipynb      
+│   │   rus_sent.ipynb           
+│   │   schinese_sent.ipynb      
+│   │   complete_sentiment_analysis.ipynb  
+│   │   algorith_question.ipynb           
 │
 ├───merging_function           
 │   │   merge_sentiment.py         
